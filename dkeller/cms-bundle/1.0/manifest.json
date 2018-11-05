@@ -1,6 +1,6 @@
 {
     "bundles": {
-        "DKeller\\CmsBundle\\CmsBundle": ["all"]
+        "DKeller\\CmsBundle\\DkellerCmsBundle": ["all"]
     },
     "env": {
         "DKELLER_USER": "user",
