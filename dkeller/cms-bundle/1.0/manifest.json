@@ -1,0 +1,9 @@
+{
+    "bundles": {
+        "DKeller\\CmsBundle\\DkellerCmsBundle": ["all"]
+    },
+    "env": {
+        "DKELLER_USER": "user",
+        "DKELLER_PASS": "pass"
+    }
+}
